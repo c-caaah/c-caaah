@@ -1,4 +1,4 @@
-### ✨hi, I´am Cáh✨
+### ✨hi, I´m Cáh✨
 
 I´m not a developer but I’m currently learning Python and Go⚡
 
