@@ -1,4 +1,8 @@
-### Hi there 👋
+### ✨hi, I´am Cáh✨
+
+I´m not a developer but I’m currently learning Python and Go⚡
+
+
 
 <!--
 **c-caaah/c-caaah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
