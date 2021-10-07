@@ -13,11 +13,13 @@ I´m not a developer but I’m currently learning Python and Go⚡
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-caaah&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
+  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/0664a523361fceeb9fdba93617744023.gif" width="150" height="150" style = "border-radius: 50px" alt="Cáh/"></a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Cáh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cáh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cáh-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align = "center" src="https://i.picasion.com/pic91/0664a523361fceeb9fdba93617744023.gif" width="150" height="150" style = "border-radius: 50px" alt="Cáh/"></a>
+
 
 ##
 
