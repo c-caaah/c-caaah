@@ -17,10 +17,12 @@ I´m not a developer but I’m currently learning Python and Go⚡
   <img align="center" alt="Cáh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cáh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cáh-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="right" alt="Cáh" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/0664a523361fceeb9fdba93617744023.gif">
-</div>
 
 ##
+
+  <img align="right" alt="Cáh" height="150" style="border-radius:60px;" 
+  src="https://i.picasion.com/pic91/0664a523361fceeb9fdba93617744023.gif">
+</div>
 
 <div> 
 
