@@ -2,7 +2,7 @@
 
 I´m not a developer but I’m currently learning Python and Go⚡
 
-- 🔭 I’m currently working as a Project Manager
+- 🔭 I’m currently working as a Product Manager, Scrum Master and Agile Coach
 - 🌱 I’m currently learning Golang and Python
 - 😄 Pronouns: She/Her
 
