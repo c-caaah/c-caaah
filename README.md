@@ -34,7 +34,7 @@ I´m not a developer but I’m currently learning Python and Go⚡
     
    <img align="center" alt="WTMCWB" height="32" width="40" src="https://papercallio-production.s3.amazonaws.com/uploads/event/logo/255/WT_logo_vertical_pos.png"> Ambassador at <a href = "https://twitter.com/WTMCuritiba">Women Techmakers Curitiba</a>
 
-![Snake animation](https://github.com/c-caaah/c-caaah/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/c-caaag/snk/output/github-contribution-grid-snake.svg)
  
 </div>
 
