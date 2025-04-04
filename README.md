@@ -2,8 +2,8 @@
 
 I´m not a developer but I’m currently learning Python and Go⚡
 
-- 🔭 I’m currently working as a Product Manager and Scrum Master
-- 🌱 I’m currently learning Golang and Python
+- 🔭 I’m currently working as a Product Manager
+- 🌱 I’m currently learning Golang, SQL and Python
 - 😄 Pronouns: She/Her
 
 
