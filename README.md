@@ -7,12 +7,12 @@ I´m not a developer but I’m currently learning Python and Go⚡
 - 😄 Pronouns: She/Her
 
 
-<div align="center">
-  <a href="https://github.com/c-caaah">
+<!-- <div align="center">
+  //<a href="https://github.com/c-caaah">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=c-caaah&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-caaah&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
-
+-->
 <div style="display: inline_block"><br>
   <img align="right" alt="Cáh-gif" height="150" style="border-radius: 50px;" src="https://i.picasion.com/pic91/c9cf5c3823489fc52e66bcc7c0bcd0df.gif">
   <img align="center" alt="Cáh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
