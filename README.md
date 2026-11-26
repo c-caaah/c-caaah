@@ -9,7 +9,7 @@ I´m not a developer but I’m currently learning Python and Go⚡
 
 <div align="left">
   <a href="https://github.com/c-caaah">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=c-caaah&show_icons=true&theme=material-palenight&include_all_commits=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=c-caaah&show_icons=true&theme=material-palenight"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-caaah&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
@@ -30,7 +30,6 @@ I´m not a developer but I’m currently learning Python and Go⚡
   <a href="https://www.linkedin.com/in/carolinedc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   </div>
-
   
   <div>
    <img align="center" alt="WWGCWB" height="32" width="40" src="https://github.com/c-caaah/c-caaah/blob/main/wwgcwb.png"> Organizer at <a href = "https://twitter.com/womenwhogocwb">Women Who Go Curitiba</a>
